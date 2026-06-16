@@ -1,0 +1,267 @@
+[
+  {
+    "route": "/dashboard/my-applications",
+    "visitedAt": "2026-06-16T11:20:19.062Z",
+    "headings": [
+      "My Applications",
+      "Applications by Type",
+      "Applications Overview"
+    ],
+    "buttons": [
+      "+ New Application",
+      "Take a Tour",
+      "12",
+      "AD",
+      "All500",
+      "Patient Needs Waiver (PNW) Request369",
+      "Program Flexibility (PF) Request116",
+      "Workforce Shortage Waiver (WSW) Request15",
+      "All Applications 500",
+      "Draft 188",
+      "Submitted 294",
+      "Reopen 0",
+      "In Review 4",
+      "Rejected 0",
+      "Approved 6",
+      "Evaluator Review 1",
+      "Manager Review 7",
+      "Revoked 0",
+      "Expired 0",
+      "10",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "route": "/dashboard/facilities",
+    "visitedAt": "2026-06-16T11:20:22.609Z",
+    "headings": [
+      "Facilities",
+      "Facilities Status Overview"
+    ],
+    "buttons": [
+      "+ New Application",
+      "Take a Tour",
+      "12",
+      "AD",
+      "All Facilities 5000",
+      "Due Soon 0",
+      "Upcoming 1000",
+      "Scheduled 1000",
+      "Overdue 28",
+      "No Status 2972",
+      "Role",
+      "Type",
+      "10",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "route": "/dashboard/action-items",
+    "visitedAt": "2026-06-16T11:20:24.041Z",
+    "headings": [
+      "Action Items",
+      "Action Items"
+    ],
+    "buttons": [
+      "+ New Application",
+      "Take a Tour",
+      "12",
+      "AD",
+      "Status",
+      "Priority",
+      "10",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "route": "/dashboard/user-management",
+    "visitedAt": "2026-06-16T11:20:25.802Z",
+    "headings": [
+      "User Management"
+    ],
+    "buttons": [
+      "+ New Application",
+      "Take a Tour",
+      "12",
+      "AD",
+      "Member (4)",
+      "Pending Invites18",
+      "Invite User",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "10",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "route": "/dashboard/announcements",
+    "visitedAt": "2026-06-16T11:20:27.667Z",
+    "headings": [
+      "Announcements",
+      "Introducing Smarter AnalyticsExpiredMedium20.01.2026",
+      "Introducing Smarter Analytics",
+      "We’re Live! Welcome to Our New WebsiteExpiredLow20.01.2026",
+      "We’re Live! Welcome to Our New Website",
+      "Scheduled MaintainanceExpiredHigh14.01.2026",
+      "Scheduled Maintainance",
+      "New Application is addedExpiredMedium14.01.2026",
+      "New Application is added",
+      "Scheduled Maintenance in ProgressExpiredHigh20.01.2026",
+      "Scheduled Maintenance in Progress"
+    ],
+    "buttons": [
+      "+ New Application",
+      "Take a Tour",
+      "12",
+      "AD",
+      "Introducing Smarter AnalyticsExpiredMedium20.01.2026",
+      "We’re Live! Welcome to Our New WebsiteExpiredLow20.01.2026",
+      "Scheduled MaintainanceExpiredHigh14.01.2026",
+      "New Application is addedExpiredMedium14.01.2026",
+      "Scheduled Maintenance in ProgressExpiredHigh20.01.2026"
+    ]
+  },
+  {
+    "route": "/dashboard/faqs",
+    "visitedAt": "2026-06-16T11:20:29.164Z",
+    "headings": [
+      "FAQs",
+      "How do I submit a new waiver application?",
+      "What is the typical review time for waiver applications?",
+      "How can I track the status of my application?",
+      "What types of waivers can I apply for?",
+      "Can I edit an application after submission?",
+      "How do I add or manage facilities?",
+      "What should I do if my application is rejected?",
+      "How do I contact support?"
+    ],
+    "buttons": [
+      "+ New Application",
+      "Take a Tour",
+      "12",
+      "AD",
+      "How do I submit a new waiver application?",
+      "What is the typical review time for waiver applications?",
+      "How can I track the status of my application?",
+      "What types of waivers can I apply for?",
+      "Can I edit an application after submission?",
+      "How do I add or manage facilities?",
+      "What should I do if my application is rejected?",
+      "How do I contact support?"
+    ]
+  },
+  {
+    "route": "/dashboard/tickets",
+    "visitedAt": "2026-06-16T11:20:31.627Z",
+    "headings": [
+      "Support Tickets",
+      "TEST",
+      "TEST",
+      "I can't login - need password reset",
+      "Test",
+      "zsxdfcvg",
+      "zxecrv",
+      "testing support ticke submission",
+      "testing support ticket submission",
+      "testing support ticket submission",
+      "testing support ticket submission",
+      "testing support ticket submission",
+      "testing support ticket submission",
+      "My script is not showing correctly",
+      "My script is not showing correctly",
+      "My script is not showing correctly",
+      "My script is not showing correctly",
+      "Login issue",
+      "Waiver Application Submission Failure",
+      "Login Issue – Unable to Access Waiver Pro Portal"
+    ],
+    "buttons": [
+      "+ New Application",
+      "Take a Tour",
+      "+ New Ticket",
+      "12",
+      "AD",
+      "All",
+      "All",
+      "View Details",
+      "View Details",
+      "View Details",
+      "View Details",
+      "View Details",
+      "View Details",
+      "View Details",
+      "View Details",
+      "View Details",
+      "View Details",
+      "View Details",
+      "View Details",
+      "View Details",
+      "View Details",
+      "View Details",
+      "View Details",
+      "View Details",
+      "View Details",
+      "View Details"
+    ]
+  },
+  {
+    "route": "/dashboard/contact",
+    "visitedAt": "2026-06-16T11:20:33.426Z",
+    "headings": [
+      "Contact",
+      "Send us a message",
+      "Contact Information",
+      "Quick Response"
+    ],
+    "buttons": [
+      "+ New Application",
+      "Take a Tour",
+      "12",
+      "AD",
+      "Send Message"
+    ]
+  },
+  {
+    "route": "/dashboard/settings",
+    "visitedAt": "2026-06-16T11:20:35.218Z",
+    "headings": [
+      "Settings",
+      "Partner Sample",
+      "Profile Information",
+      "Notifications",
+      "Security",
+      "Features"
+    ],
+    "buttons": [
+      "+ New Application",
+      "Take a Tour",
+      "12",
+      "AD",
+      "Save Changes",
+      "",
+      "",
+      "",
+      "Change Password",
+      "",
+      ""
+    ]
+  }
+]

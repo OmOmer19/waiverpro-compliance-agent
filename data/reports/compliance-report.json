@@ -1,0 +1,1638 @@
+{
+  "timestamp": "2026-06-16T11:20:35.229Z",
+  "totalIssues": 117,
+  "complianceScore": 0,
+  "status": "NON_COMPLIANT",
+  "issues": [
+    {
+      "route": "/dashboard/my-applications",
+      "section": "1",
+      "missing": [
+        "About This Guide",
+        "WaiverPro is a web-based platform for managing healthcare regulatory waiver requests from",
+        "submission through approval. This manual explains how to navigate the application, submit and",
+        "track waiver requests, manage facilities and users, and obtain support.",
+        "Who should use this guide",
+        "This guide is written for provider-portal users — facility administrators and staff who prepare,",
+        "submit, and monitor waiver applications on behalf of their organisation.",
+        "Scope"
+      ]
+    },
+    {
+      "route": "/dashboard/my-applications",
+      "section": "2",
+      "missing": [
+        "Accessing WaiverPro — The Landing Page",
+        "URL /",
+        "Open WaiverPro in your web browser. The public landing page introduces the platform and lists the",
+        "waiver programs currently available.",
+        "Figure 2.1 — The WaiverPro landing page: heading, search bar, and the Getting Started button.",
+        "Key elements of the landing page:",
+        "Heading — “Healthcare Waiver Management”, with the tagline “Streamline your regulatory",
+        "waiver process from submission to approval”."
+      ]
+    },
+    {
+      "route": "/dashboard/my-applications",
+      "section": "3",
+      "missing": [
+        "Signing In",
+        "URL /login",
+        "The sign-in screen authenticates you into the provider portal.",
+        "Figure 3.1 — The sign-in screen.",
+        "1. Enter your Email (placeholder m@example.com).",
+        "2. Enter your Password. Passwords must be at least 6 characters.",
+        "3. Click Login.",
+        "If you have forgotten your password, use the Forgot your password? link beside the password"
+      ]
+    },
+    {
+      "route": "/dashboard/my-applications",
+      "section": "4",
+      "missing": [
+        "The Application Workspace & Navigation",
+        "URL Shared by all signed-in pages (/dashboard/...)",
+        "Once signed in, every page shares a common layout: a fixed sidebar on the left and a header along",
+        "the top.",
+        "Figure 4.1 — The signed-in workspace. The sidebar (left) provides navigation; the header (top) provides search,",
+        "notifications, and your account menu.",
+        "The sidebar",
+        "At the top of the sidebar the brand WaiverPro appears with the label “Healthcare Waiver"
+      ]
+    },
+    {
+      "route": "/dashboard/my-applications",
+      "section": "5",
+      "missing": [
+        "URL /dashboard/my-applications",
+        "The My Applications dashboard is your home screen. It lists your waiver applications and",
+        "summarises them in two charts.",
+        "Figure 5.1 — The My Applications dashboard: waiver-type tabs, status filters, the applications table, and the two",
+        "summary charts.",
+        "Filtering the list",
+        "Two layers of filters narrow the table, each showing a live count:"
+      ]
+    },
+    {
+      "route": "/dashboard/my-applications",
+      "section": "6",
+      "missing": [
+        "Submitting a New Waiver Application",
+        "URL Opens as a panel over the current page (no dedicated URL)",
+        "Click + New Application in the sidebar to open the application panel. A progress bar and the step",
+        "tabs Waiver Type, Select Location, and Fill Application show where you are.",
+        "Figure 6.1 — The New Waiver Application panel, open at step one, “Select Waiver Type”.",
+        "Step 1 — Waiver Type",
+        "Under “Select Waiver Type”, choose the waiver request that best matches your needs. Each type —",
+        "Patient Needs Waiver (PNW) Request, Program Flexibility (PF) Request, and"
+      ]
+    },
+    {
+      "route": "/dashboard/my-applications",
+      "section": "7",
+      "missing": [
+        "Facilities",
+        "URL /dashboard/facilities",
+        "The Facilities page lists the facilities in your organisation and tracks the status of their waiver",
+        "applications.",
+        "Figure 7.1 — The Facilities page, with status filters, the facilities table, and the Facilities Status Overview.",
+        "Filters",
+        "A row of status chips filters by application due-date status: All Facilities, Due Soon, Upcoming,",
+        "Scheduled, Overdue, and No Status. You can further filter by Role and Type, or search by"
+      ]
+    },
+    {
+      "route": "/dashboard/my-applications",
+      "section": "8",
+      "missing": [
+        "Action Items",
+        "URL /dashboard/action-items",
+        "The Action Items page collects pending items that require your attention.",
+        "Figure 8.1 — The Action Items page, with the items table and the status summary chart.",
+        "Items are listed with the columns ID, Name, Status, Priority, and Due Date. Each Name links",
+        "to the relevant record so you can act on it. You can filter the list by Status and Priority using the",
+        "controls at the top right.",
+        "Status values include Done and In Process."
+      ]
+    },
+    {
+      "route": "/dashboard/my-applications",
+      "section": "9",
+      "missing": [
+        "User Management",
+        "URL /dashboard/user-management",
+        "The User Management page lets organisation administrators view and manage the people who",
+        "can access WaiverPro on behalf of the organisation.",
+        "Figure 9.1 — The User Management page.",
+        "Two tabs separate current Members from Pending Invites, each showing a count. The table lists",
+        "each user with the columns Name, Email, Associated Facilities, Last Updated, and Actions",
+        "(edit and remove). To add someone, click Invite User in the top-right corner. Use the search box to"
+      ]
+    },
+    {
+      "route": "/dashboard/my-applications",
+      "section": "10",
+      "missing": [
+        "Announcements",
+        "URL /dashboard/announcements",
+        "The Announcements page keeps you informed: “Stay up to date with important system and",
+        "program updates.”",
+        "Figure 10.1 — The Announcements page.",
+        "Each announcement shows its title, a status badge — Active, Upcoming, or Expired — an",
+        "optional priority badge (High, Medium, or Low), and its date. Click an announcement to expand",
+        "and read its full detail. A search box helps you find a specific announcement."
+      ]
+    },
+    {
+      "route": "/dashboard/my-applications",
+      "section": "11",
+      "missing": [
+        "Support — FAQs, Tickets & Contact",
+        "The Support section of the sidebar offers three ways to get help.",
+        "URL /dashboard/faqs",
+        "The FAQs page answers common questions about WaiverPro. Click any question to expand its",
+        "answer.",
+        "Figure 11.1 — The FAQs page.",
+        "Support Tickets",
+        "URL /dashboard/tickets"
+      ]
+    },
+    {
+      "route": "/dashboard/my-applications",
+      "section": "12",
+      "missing": [
+        "Settings",
+        "URL /dashboard/settings",
+        "The Settings page (“Manage your account and preferences”) shows your organisation and is",
+        "organised into four cards.",
+        "Figure 12.1 — The Settings page.",
+        "Organisation — the organisation your account belongs to is shown at the top of the page.",
+        "Profile Information — your first name, last name, email (read-only), and phone number. Click",
+        "Save Changes to update."
+      ]
+    },
+    {
+      "route": "/dashboard/my-applications",
+      "section": "13",
+      "missing": [
+        "Legal — Privacy & Terms",
+        "URL /privacy  ·  /terms",
+        "The Privacy Policy and Terms of Service are linked from the footer of the landing page and are",
+        "available without signing in.",
+        "Figure 13.1 — The Privacy Policy page.",
+        "Figure 13.2 — The Terms of Service page.",
+        "Each page is dated “Last updated: December 2025” and provides a Back to Home link.",
+        "APPENDIX"
+      ]
+    },
+    {
+      "route": "/dashboard/facilities",
+      "section": "1",
+      "missing": [
+        "About This Guide",
+        "WaiverPro is a web-based platform for managing healthcare regulatory waiver requests from",
+        "submission through approval. This manual explains how to navigate the application, submit and",
+        "track waiver requests, manage facilities and users, and obtain support.",
+        "Who should use this guide",
+        "This guide is written for provider-portal users — facility administrators and staff who prepare,",
+        "submit, and monitor waiver applications on behalf of their organisation.",
+        "Scope"
+      ]
+    },
+    {
+      "route": "/dashboard/facilities",
+      "section": "2",
+      "missing": [
+        "Accessing WaiverPro — The Landing Page",
+        "URL /",
+        "Open WaiverPro in your web browser. The public landing page introduces the platform and lists the",
+        "waiver programs currently available.",
+        "Figure 2.1 — The WaiverPro landing page: heading, search bar, and the Getting Started button.",
+        "Key elements of the landing page:",
+        "Heading — “Healthcare Waiver Management”, with the tagline “Streamline your regulatory",
+        "waiver process from submission to approval”."
+      ]
+    },
+    {
+      "route": "/dashboard/facilities",
+      "section": "3",
+      "missing": [
+        "Signing In",
+        "URL /login",
+        "The sign-in screen authenticates you into the provider portal.",
+        "Figure 3.1 — The sign-in screen.",
+        "1. Enter your Email (placeholder m@example.com).",
+        "2. Enter your Password. Passwords must be at least 6 characters.",
+        "3. Click Login.",
+        "If you have forgotten your password, use the Forgot your password? link beside the password"
+      ]
+    },
+    {
+      "route": "/dashboard/facilities",
+      "section": "4",
+      "missing": [
+        "The Application Workspace & Navigation",
+        "URL Shared by all signed-in pages (/dashboard/...)",
+        "Once signed in, every page shares a common layout: a fixed sidebar on the left and a header along",
+        "the top.",
+        "Figure 4.1 — The signed-in workspace. The sidebar (left) provides navigation; the header (top) provides search,",
+        "notifications, and your account menu.",
+        "The sidebar",
+        "At the top of the sidebar the brand WaiverPro appears with the label “Healthcare Waiver"
+      ]
+    },
+    {
+      "route": "/dashboard/facilities",
+      "section": "5",
+      "missing": [
+        "My Applications",
+        "URL /dashboard/my-applications",
+        "The My Applications dashboard is your home screen. It lists your waiver applications and",
+        "summarises them in two charts.",
+        "Figure 5.1 — The My Applications dashboard: waiver-type tabs, status filters, the applications table, and the two",
+        "summary charts.",
+        "Filtering the list",
+        "Two layers of filters narrow the table, each showing a live count:"
+      ]
+    },
+    {
+      "route": "/dashboard/facilities",
+      "section": "6",
+      "missing": [
+        "Submitting a New Waiver Application",
+        "URL Opens as a panel over the current page (no dedicated URL)",
+        "Click + New Application in the sidebar to open the application panel. A progress bar and the step",
+        "tabs Waiver Type, Select Location, and Fill Application show where you are.",
+        "Figure 6.1 — The New Waiver Application panel, open at step one, “Select Waiver Type”.",
+        "Step 1 — Waiver Type",
+        "Under “Select Waiver Type”, choose the waiver request that best matches your needs. Each type —",
+        "Patient Needs Waiver (PNW) Request, Program Flexibility (PF) Request, and"
+      ]
+    },
+    {
+      "route": "/dashboard/facilities",
+      "section": "7",
+      "missing": [
+        "URL /dashboard/facilities",
+        "The Facilities page lists the facilities in your organisation and tracks the status of their waiver",
+        "applications.",
+        "Figure 7.1 — The Facilities page, with status filters, the facilities table, and the Facilities Status Overview.",
+        "Filters",
+        "A row of status chips filters by application due-date status: All Facilities, Due Soon, Upcoming,",
+        "Scheduled, Overdue, and No Status. You can further filter by Role and Type, or search by"
+      ]
+    },
+    {
+      "route": "/dashboard/facilities",
+      "section": "8",
+      "missing": [
+        "Action Items",
+        "URL /dashboard/action-items",
+        "The Action Items page collects pending items that require your attention.",
+        "Figure 8.1 — The Action Items page, with the items table and the status summary chart.",
+        "Items are listed with the columns ID, Name, Status, Priority, and Due Date. Each Name links",
+        "to the relevant record so you can act on it. You can filter the list by Status and Priority using the",
+        "controls at the top right.",
+        "Status values include Done and In Process."
+      ]
+    },
+    {
+      "route": "/dashboard/facilities",
+      "section": "9",
+      "missing": [
+        "User Management",
+        "URL /dashboard/user-management",
+        "The User Management page lets organisation administrators view and manage the people who",
+        "can access WaiverPro on behalf of the organisation.",
+        "Figure 9.1 — The User Management page.",
+        "Two tabs separate current Members from Pending Invites, each showing a count. The table lists",
+        "each user with the columns Name, Email, Associated Facilities, Last Updated, and Actions",
+        "(edit and remove). To add someone, click Invite User in the top-right corner. Use the search box to"
+      ]
+    },
+    {
+      "route": "/dashboard/facilities",
+      "section": "10",
+      "missing": [
+        "Announcements",
+        "URL /dashboard/announcements",
+        "The Announcements page keeps you informed: “Stay up to date with important system and",
+        "program updates.”",
+        "Figure 10.1 — The Announcements page.",
+        "Each announcement shows its title, a status badge — Active, Upcoming, or Expired — an",
+        "optional priority badge (High, Medium, or Low), and its date. Click an announcement to expand",
+        "and read its full detail. A search box helps you find a specific announcement."
+      ]
+    },
+    {
+      "route": "/dashboard/facilities",
+      "section": "11",
+      "missing": [
+        "Support — FAQs, Tickets & Contact",
+        "The Support section of the sidebar offers three ways to get help.",
+        "URL /dashboard/faqs",
+        "The FAQs page answers common questions about WaiverPro. Click any question to expand its",
+        "answer.",
+        "Figure 11.1 — The FAQs page.",
+        "Support Tickets",
+        "URL /dashboard/tickets"
+      ]
+    },
+    {
+      "route": "/dashboard/facilities",
+      "section": "12",
+      "missing": [
+        "Settings",
+        "URL /dashboard/settings",
+        "The Settings page (“Manage your account and preferences”) shows your organisation and is",
+        "organised into four cards.",
+        "Figure 12.1 — The Settings page.",
+        "Organisation — the organisation your account belongs to is shown at the top of the page.",
+        "Profile Information — your first name, last name, email (read-only), and phone number. Click",
+        "Save Changes to update."
+      ]
+    },
+    {
+      "route": "/dashboard/facilities",
+      "section": "13",
+      "missing": [
+        "Legal — Privacy & Terms",
+        "URL /privacy  ·  /terms",
+        "The Privacy Policy and Terms of Service are linked from the footer of the landing page and are",
+        "available without signing in.",
+        "Figure 13.1 — The Privacy Policy page.",
+        "Figure 13.2 — The Terms of Service page.",
+        "Each page is dated “Last updated: December 2025” and provides a Back to Home link.",
+        "APPENDIX"
+      ]
+    },
+    {
+      "route": "/dashboard/action-items",
+      "section": "1",
+      "missing": [
+        "About This Guide",
+        "WaiverPro is a web-based platform for managing healthcare regulatory waiver requests from",
+        "submission through approval. This manual explains how to navigate the application, submit and",
+        "track waiver requests, manage facilities and users, and obtain support.",
+        "Who should use this guide",
+        "This guide is written for provider-portal users — facility administrators and staff who prepare,",
+        "submit, and monitor waiver applications on behalf of their organisation.",
+        "Scope"
+      ]
+    },
+    {
+      "route": "/dashboard/action-items",
+      "section": "2",
+      "missing": [
+        "Accessing WaiverPro — The Landing Page",
+        "URL /",
+        "Open WaiverPro in your web browser. The public landing page introduces the platform and lists the",
+        "waiver programs currently available.",
+        "Figure 2.1 — The WaiverPro landing page: heading, search bar, and the Getting Started button.",
+        "Key elements of the landing page:",
+        "Heading — “Healthcare Waiver Management”, with the tagline “Streamline your regulatory",
+        "waiver process from submission to approval”."
+      ]
+    },
+    {
+      "route": "/dashboard/action-items",
+      "section": "3",
+      "missing": [
+        "Signing In",
+        "URL /login",
+        "The sign-in screen authenticates you into the provider portal.",
+        "Figure 3.1 — The sign-in screen.",
+        "1. Enter your Email (placeholder m@example.com).",
+        "2. Enter your Password. Passwords must be at least 6 characters.",
+        "3. Click Login.",
+        "If you have forgotten your password, use the Forgot your password? link beside the password"
+      ]
+    },
+    {
+      "route": "/dashboard/action-items",
+      "section": "4",
+      "missing": [
+        "The Application Workspace & Navigation",
+        "URL Shared by all signed-in pages (/dashboard/...)",
+        "Once signed in, every page shares a common layout: a fixed sidebar on the left and a header along",
+        "the top.",
+        "Figure 4.1 — The signed-in workspace. The sidebar (left) provides navigation; the header (top) provides search,",
+        "notifications, and your account menu.",
+        "The sidebar",
+        "At the top of the sidebar the brand WaiverPro appears with the label “Healthcare Waiver"
+      ]
+    },
+    {
+      "route": "/dashboard/action-items",
+      "section": "5",
+      "missing": [
+        "My Applications",
+        "URL /dashboard/my-applications",
+        "The My Applications dashboard is your home screen. It lists your waiver applications and",
+        "summarises them in two charts.",
+        "Figure 5.1 — The My Applications dashboard: waiver-type tabs, status filters, the applications table, and the two",
+        "summary charts.",
+        "Filtering the list",
+        "Two layers of filters narrow the table, each showing a live count:"
+      ]
+    },
+    {
+      "route": "/dashboard/action-items",
+      "section": "6",
+      "missing": [
+        "Submitting a New Waiver Application",
+        "URL Opens as a panel over the current page (no dedicated URL)",
+        "Click + New Application in the sidebar to open the application panel. A progress bar and the step",
+        "tabs Waiver Type, Select Location, and Fill Application show where you are.",
+        "Figure 6.1 — The New Waiver Application panel, open at step one, “Select Waiver Type”.",
+        "Step 1 — Waiver Type",
+        "Under “Select Waiver Type”, choose the waiver request that best matches your needs. Each type —",
+        "Patient Needs Waiver (PNW) Request, Program Flexibility (PF) Request, and"
+      ]
+    },
+    {
+      "route": "/dashboard/action-items",
+      "section": "7",
+      "missing": [
+        "Facilities",
+        "URL /dashboard/facilities",
+        "The Facilities page lists the facilities in your organisation and tracks the status of their waiver",
+        "applications.",
+        "Figure 7.1 — The Facilities page, with status filters, the facilities table, and the Facilities Status Overview.",
+        "Filters",
+        "A row of status chips filters by application due-date status: All Facilities, Due Soon, Upcoming,",
+        "Scheduled, Overdue, and No Status. You can further filter by Role and Type, or search by"
+      ]
+    },
+    {
+      "route": "/dashboard/action-items",
+      "section": "8",
+      "missing": [
+        "URL /dashboard/action-items",
+        "The Action Items page collects pending items that require your attention.",
+        "Figure 8.1 — The Action Items page, with the items table and the status summary chart.",
+        "Items are listed with the columns ID, Name, Status, Priority, and Due Date. Each Name links",
+        "to the relevant record so you can act on it. You can filter the list by Status and Priority using the",
+        "controls at the top right.",
+        "Status values include Done and In Process."
+      ]
+    },
+    {
+      "route": "/dashboard/action-items",
+      "section": "9",
+      "missing": [
+        "User Management",
+        "URL /dashboard/user-management",
+        "The User Management page lets organisation administrators view and manage the people who",
+        "can access WaiverPro on behalf of the organisation.",
+        "Figure 9.1 — The User Management page.",
+        "Two tabs separate current Members from Pending Invites, each showing a count. The table lists",
+        "each user with the columns Name, Email, Associated Facilities, Last Updated, and Actions",
+        "(edit and remove). To add someone, click Invite User in the top-right corner. Use the search box to"
+      ]
+    },
+    {
+      "route": "/dashboard/action-items",
+      "section": "10",
+      "missing": [
+        "Announcements",
+        "URL /dashboard/announcements",
+        "The Announcements page keeps you informed: “Stay up to date with important system and",
+        "program updates.”",
+        "Figure 10.1 — The Announcements page.",
+        "Each announcement shows its title, a status badge — Active, Upcoming, or Expired — an",
+        "optional priority badge (High, Medium, or Low), and its date. Click an announcement to expand",
+        "and read its full detail. A search box helps you find a specific announcement."
+      ]
+    },
+    {
+      "route": "/dashboard/action-items",
+      "section": "11",
+      "missing": [
+        "Support — FAQs, Tickets & Contact",
+        "The Support section of the sidebar offers three ways to get help.",
+        "URL /dashboard/faqs",
+        "The FAQs page answers common questions about WaiverPro. Click any question to expand its",
+        "answer.",
+        "Figure 11.1 — The FAQs page.",
+        "Support Tickets",
+        "URL /dashboard/tickets"
+      ]
+    },
+    {
+      "route": "/dashboard/action-items",
+      "section": "12",
+      "missing": [
+        "Settings",
+        "URL /dashboard/settings",
+        "The Settings page (“Manage your account and preferences”) shows your organisation and is",
+        "organised into four cards.",
+        "Figure 12.1 — The Settings page.",
+        "Organisation — the organisation your account belongs to is shown at the top of the page.",
+        "Profile Information — your first name, last name, email (read-only), and phone number. Click",
+        "Save Changes to update."
+      ]
+    },
+    {
+      "route": "/dashboard/action-items",
+      "section": "13",
+      "missing": [
+        "Legal — Privacy & Terms",
+        "URL /privacy  ·  /terms",
+        "The Privacy Policy and Terms of Service are linked from the footer of the landing page and are",
+        "available without signing in.",
+        "Figure 13.1 — The Privacy Policy page.",
+        "Figure 13.2 — The Terms of Service page.",
+        "Each page is dated “Last updated: December 2025” and provides a Back to Home link.",
+        "APPENDIX"
+      ]
+    },
+    {
+      "route": "/dashboard/user-management",
+      "section": "1",
+      "missing": [
+        "About This Guide",
+        "WaiverPro is a web-based platform for managing healthcare regulatory waiver requests from",
+        "submission through approval. This manual explains how to navigate the application, submit and",
+        "track waiver requests, manage facilities and users, and obtain support.",
+        "Who should use this guide",
+        "This guide is written for provider-portal users — facility administrators and staff who prepare,",
+        "submit, and monitor waiver applications on behalf of their organisation.",
+        "Scope"
+      ]
+    },
+    {
+      "route": "/dashboard/user-management",
+      "section": "2",
+      "missing": [
+        "Accessing WaiverPro — The Landing Page",
+        "URL /",
+        "Open WaiverPro in your web browser. The public landing page introduces the platform and lists the",
+        "waiver programs currently available.",
+        "Figure 2.1 — The WaiverPro landing page: heading, search bar, and the Getting Started button.",
+        "Key elements of the landing page:",
+        "Heading — “Healthcare Waiver Management”, with the tagline “Streamline your regulatory",
+        "waiver process from submission to approval”."
+      ]
+    },
+    {
+      "route": "/dashboard/user-management",
+      "section": "3",
+      "missing": [
+        "Signing In",
+        "URL /login",
+        "The sign-in screen authenticates you into the provider portal.",
+        "Figure 3.1 — The sign-in screen.",
+        "1. Enter your Email (placeholder m@example.com).",
+        "2. Enter your Password. Passwords must be at least 6 characters.",
+        "3. Click Login.",
+        "If you have forgotten your password, use the Forgot your password? link beside the password"
+      ]
+    },
+    {
+      "route": "/dashboard/user-management",
+      "section": "4",
+      "missing": [
+        "The Application Workspace & Navigation",
+        "URL Shared by all signed-in pages (/dashboard/...)",
+        "Once signed in, every page shares a common layout: a fixed sidebar on the left and a header along",
+        "the top.",
+        "Figure 4.1 — The signed-in workspace. The sidebar (left) provides navigation; the header (top) provides search,",
+        "notifications, and your account menu.",
+        "The sidebar",
+        "At the top of the sidebar the brand WaiverPro appears with the label “Healthcare Waiver"
+      ]
+    },
+    {
+      "route": "/dashboard/user-management",
+      "section": "5",
+      "missing": [
+        "My Applications",
+        "URL /dashboard/my-applications",
+        "The My Applications dashboard is your home screen. It lists your waiver applications and",
+        "summarises them in two charts.",
+        "Figure 5.1 — The My Applications dashboard: waiver-type tabs, status filters, the applications table, and the two",
+        "summary charts.",
+        "Filtering the list",
+        "Two layers of filters narrow the table, each showing a live count:"
+      ]
+    },
+    {
+      "route": "/dashboard/user-management",
+      "section": "6",
+      "missing": [
+        "Submitting a New Waiver Application",
+        "URL Opens as a panel over the current page (no dedicated URL)",
+        "Click + New Application in the sidebar to open the application panel. A progress bar and the step",
+        "tabs Waiver Type, Select Location, and Fill Application show where you are.",
+        "Figure 6.1 — The New Waiver Application panel, open at step one, “Select Waiver Type”.",
+        "Step 1 — Waiver Type",
+        "Under “Select Waiver Type”, choose the waiver request that best matches your needs. Each type —",
+        "Patient Needs Waiver (PNW) Request, Program Flexibility (PF) Request, and"
+      ]
+    },
+    {
+      "route": "/dashboard/user-management",
+      "section": "7",
+      "missing": [
+        "Facilities",
+        "URL /dashboard/facilities",
+        "The Facilities page lists the facilities in your organisation and tracks the status of their waiver",
+        "applications.",
+        "Figure 7.1 — The Facilities page, with status filters, the facilities table, and the Facilities Status Overview.",
+        "Filters",
+        "A row of status chips filters by application due-date status: All Facilities, Due Soon, Upcoming,",
+        "Scheduled, Overdue, and No Status. You can further filter by Role and Type, or search by"
+      ]
+    },
+    {
+      "route": "/dashboard/user-management",
+      "section": "8",
+      "missing": [
+        "Action Items",
+        "URL /dashboard/action-items",
+        "The Action Items page collects pending items that require your attention.",
+        "Figure 8.1 — The Action Items page, with the items table and the status summary chart.",
+        "Items are listed with the columns ID, Name, Status, Priority, and Due Date. Each Name links",
+        "to the relevant record so you can act on it. You can filter the list by Status and Priority using the",
+        "controls at the top right.",
+        "Status values include Done and In Process."
+      ]
+    },
+    {
+      "route": "/dashboard/user-management",
+      "section": "9",
+      "missing": [
+        "URL /dashboard/user-management",
+        "The User Management page lets organisation administrators view and manage the people who",
+        "can access WaiverPro on behalf of the organisation.",
+        "Figure 9.1 — The User Management page.",
+        "Two tabs separate current Members from Pending Invites, each showing a count. The table lists",
+        "each user with the columns Name, Email, Associated Facilities, Last Updated, and Actions",
+        "(edit and remove). To add someone, click Invite User in the top-right corner. Use the search box to"
+      ]
+    },
+    {
+      "route": "/dashboard/user-management",
+      "section": "10",
+      "missing": [
+        "Announcements",
+        "URL /dashboard/announcements",
+        "The Announcements page keeps you informed: “Stay up to date with important system and",
+        "program updates.”",
+        "Figure 10.1 — The Announcements page.",
+        "Each announcement shows its title, a status badge — Active, Upcoming, or Expired — an",
+        "optional priority badge (High, Medium, or Low), and its date. Click an announcement to expand",
+        "and read its full detail. A search box helps you find a specific announcement."
+      ]
+    },
+    {
+      "route": "/dashboard/user-management",
+      "section": "11",
+      "missing": [
+        "Support — FAQs, Tickets & Contact",
+        "The Support section of the sidebar offers three ways to get help.",
+        "URL /dashboard/faqs",
+        "The FAQs page answers common questions about WaiverPro. Click any question to expand its",
+        "answer.",
+        "Figure 11.1 — The FAQs page.",
+        "Support Tickets",
+        "URL /dashboard/tickets"
+      ]
+    },
+    {
+      "route": "/dashboard/user-management",
+      "section": "12",
+      "missing": [
+        "Settings",
+        "URL /dashboard/settings",
+        "The Settings page (“Manage your account and preferences”) shows your organisation and is",
+        "organised into four cards.",
+        "Figure 12.1 — The Settings page.",
+        "Organisation — the organisation your account belongs to is shown at the top of the page.",
+        "Profile Information — your first name, last name, email (read-only), and phone number. Click",
+        "Save Changes to update."
+      ]
+    },
+    {
+      "route": "/dashboard/user-management",
+      "section": "13",
+      "missing": [
+        "Legal — Privacy & Terms",
+        "URL /privacy  ·  /terms",
+        "The Privacy Policy and Terms of Service are linked from the footer of the landing page and are",
+        "available without signing in.",
+        "Figure 13.1 — The Privacy Policy page.",
+        "Figure 13.2 — The Terms of Service page.",
+        "Each page is dated “Last updated: December 2025” and provides a Back to Home link.",
+        "APPENDIX"
+      ]
+    },
+    {
+      "route": "/dashboard/announcements",
+      "section": "1",
+      "missing": [
+        "About This Guide",
+        "WaiverPro is a web-based platform for managing healthcare regulatory waiver requests from",
+        "submission through approval. This manual explains how to navigate the application, submit and",
+        "track waiver requests, manage facilities and users, and obtain support.",
+        "Who should use this guide",
+        "This guide is written for provider-portal users — facility administrators and staff who prepare,",
+        "submit, and monitor waiver applications on behalf of their organisation.",
+        "Scope"
+      ]
+    },
+    {
+      "route": "/dashboard/announcements",
+      "section": "2",
+      "missing": [
+        "Accessing WaiverPro — The Landing Page",
+        "URL /",
+        "Open WaiverPro in your web browser. The public landing page introduces the platform and lists the",
+        "waiver programs currently available.",
+        "Figure 2.1 — The WaiverPro landing page: heading, search bar, and the Getting Started button.",
+        "Key elements of the landing page:",
+        "Heading — “Healthcare Waiver Management”, with the tagline “Streamline your regulatory",
+        "waiver process from submission to approval”."
+      ]
+    },
+    {
+      "route": "/dashboard/announcements",
+      "section": "3",
+      "missing": [
+        "Signing In",
+        "URL /login",
+        "The sign-in screen authenticates you into the provider portal.",
+        "Figure 3.1 — The sign-in screen.",
+        "1. Enter your Email (placeholder m@example.com).",
+        "2. Enter your Password. Passwords must be at least 6 characters.",
+        "3. Click Login.",
+        "If you have forgotten your password, use the Forgot your password? link beside the password"
+      ]
+    },
+    {
+      "route": "/dashboard/announcements",
+      "section": "4",
+      "missing": [
+        "The Application Workspace & Navigation",
+        "URL Shared by all signed-in pages (/dashboard/...)",
+        "Once signed in, every page shares a common layout: a fixed sidebar on the left and a header along",
+        "the top.",
+        "Figure 4.1 — The signed-in workspace. The sidebar (left) provides navigation; the header (top) provides search,",
+        "notifications, and your account menu.",
+        "The sidebar",
+        "At the top of the sidebar the brand WaiverPro appears with the label “Healthcare Waiver"
+      ]
+    },
+    {
+      "route": "/dashboard/announcements",
+      "section": "5",
+      "missing": [
+        "My Applications",
+        "URL /dashboard/my-applications",
+        "The My Applications dashboard is your home screen. It lists your waiver applications and",
+        "summarises them in two charts.",
+        "Figure 5.1 — The My Applications dashboard: waiver-type tabs, status filters, the applications table, and the two",
+        "summary charts.",
+        "Filtering the list",
+        "Two layers of filters narrow the table, each showing a live count:"
+      ]
+    },
+    {
+      "route": "/dashboard/announcements",
+      "section": "6",
+      "missing": [
+        "Submitting a New Waiver Application",
+        "URL Opens as a panel over the current page (no dedicated URL)",
+        "Click + New Application in the sidebar to open the application panel. A progress bar and the step",
+        "tabs Waiver Type, Select Location, and Fill Application show where you are.",
+        "Figure 6.1 — The New Waiver Application panel, open at step one, “Select Waiver Type”.",
+        "Step 1 — Waiver Type",
+        "Under “Select Waiver Type”, choose the waiver request that best matches your needs. Each type —",
+        "Patient Needs Waiver (PNW) Request, Program Flexibility (PF) Request, and"
+      ]
+    },
+    {
+      "route": "/dashboard/announcements",
+      "section": "7",
+      "missing": [
+        "Facilities",
+        "URL /dashboard/facilities",
+        "The Facilities page lists the facilities in your organisation and tracks the status of their waiver",
+        "applications.",
+        "Figure 7.1 — The Facilities page, with status filters, the facilities table, and the Facilities Status Overview.",
+        "Filters",
+        "A row of status chips filters by application due-date status: All Facilities, Due Soon, Upcoming,",
+        "Scheduled, Overdue, and No Status. You can further filter by Role and Type, or search by"
+      ]
+    },
+    {
+      "route": "/dashboard/announcements",
+      "section": "8",
+      "missing": [
+        "Action Items",
+        "URL /dashboard/action-items",
+        "The Action Items page collects pending items that require your attention.",
+        "Figure 8.1 — The Action Items page, with the items table and the status summary chart.",
+        "Items are listed with the columns ID, Name, Status, Priority, and Due Date. Each Name links",
+        "to the relevant record so you can act on it. You can filter the list by Status and Priority using the",
+        "controls at the top right.",
+        "Status values include Done and In Process."
+      ]
+    },
+    {
+      "route": "/dashboard/announcements",
+      "section": "9",
+      "missing": [
+        "User Management",
+        "URL /dashboard/user-management",
+        "The User Management page lets organisation administrators view and manage the people who",
+        "can access WaiverPro on behalf of the organisation.",
+        "Figure 9.1 — The User Management page.",
+        "Two tabs separate current Members from Pending Invites, each showing a count. The table lists",
+        "each user with the columns Name, Email, Associated Facilities, Last Updated, and Actions",
+        "(edit and remove). To add someone, click Invite User in the top-right corner. Use the search box to"
+      ]
+    },
+    {
+      "route": "/dashboard/announcements",
+      "section": "10",
+      "missing": [
+        "URL /dashboard/announcements",
+        "The Announcements page keeps you informed: “Stay up to date with important system and",
+        "program updates.”",
+        "Figure 10.1 — The Announcements page.",
+        "Each announcement shows its title, a status badge — Active, Upcoming, or Expired — an",
+        "optional priority badge (High, Medium, or Low), and its date. Click an announcement to expand",
+        "and read its full detail. A search box helps you find a specific announcement."
+      ]
+    },
+    {
+      "route": "/dashboard/announcements",
+      "section": "11",
+      "missing": [
+        "Support — FAQs, Tickets & Contact",
+        "The Support section of the sidebar offers three ways to get help.",
+        "URL /dashboard/faqs",
+        "The FAQs page answers common questions about WaiverPro. Click any question to expand its",
+        "answer.",
+        "Figure 11.1 — The FAQs page.",
+        "Support Tickets",
+        "URL /dashboard/tickets"
+      ]
+    },
+    {
+      "route": "/dashboard/announcements",
+      "section": "12",
+      "missing": [
+        "Settings",
+        "URL /dashboard/settings",
+        "The Settings page (“Manage your account and preferences”) shows your organisation and is",
+        "organised into four cards.",
+        "Figure 12.1 — The Settings page.",
+        "Organisation — the organisation your account belongs to is shown at the top of the page.",
+        "Profile Information — your first name, last name, email (read-only), and phone number. Click",
+        "Save Changes to update."
+      ]
+    },
+    {
+      "route": "/dashboard/announcements",
+      "section": "13",
+      "missing": [
+        "Legal — Privacy & Terms",
+        "URL /privacy  ·  /terms",
+        "The Privacy Policy and Terms of Service are linked from the footer of the landing page and are",
+        "available without signing in.",
+        "Figure 13.1 — The Privacy Policy page.",
+        "Figure 13.2 — The Terms of Service page.",
+        "Each page is dated “Last updated: December 2025” and provides a Back to Home link.",
+        "APPENDIX"
+      ]
+    },
+    {
+      "route": "/dashboard/faqs",
+      "section": "1",
+      "missing": [
+        "About This Guide",
+        "WaiverPro is a web-based platform for managing healthcare regulatory waiver requests from",
+        "submission through approval. This manual explains how to navigate the application, submit and",
+        "track waiver requests, manage facilities and users, and obtain support.",
+        "Who should use this guide",
+        "This guide is written for provider-portal users — facility administrators and staff who prepare,",
+        "submit, and monitor waiver applications on behalf of their organisation.",
+        "Scope"
+      ]
+    },
+    {
+      "route": "/dashboard/faqs",
+      "section": "2",
+      "missing": [
+        "Accessing WaiverPro — The Landing Page",
+        "URL /",
+        "Open WaiverPro in your web browser. The public landing page introduces the platform and lists the",
+        "waiver programs currently available.",
+        "Figure 2.1 — The WaiverPro landing page: heading, search bar, and the Getting Started button.",
+        "Key elements of the landing page:",
+        "Heading — “Healthcare Waiver Management”, with the tagline “Streamline your regulatory",
+        "waiver process from submission to approval”."
+      ]
+    },
+    {
+      "route": "/dashboard/faqs",
+      "section": "3",
+      "missing": [
+        "Signing In",
+        "URL /login",
+        "The sign-in screen authenticates you into the provider portal.",
+        "Figure 3.1 — The sign-in screen.",
+        "1. Enter your Email (placeholder m@example.com).",
+        "2. Enter your Password. Passwords must be at least 6 characters.",
+        "3. Click Login.",
+        "If you have forgotten your password, use the Forgot your password? link beside the password"
+      ]
+    },
+    {
+      "route": "/dashboard/faqs",
+      "section": "4",
+      "missing": [
+        "The Application Workspace & Navigation",
+        "URL Shared by all signed-in pages (/dashboard/...)",
+        "Once signed in, every page shares a common layout: a fixed sidebar on the left and a header along",
+        "the top.",
+        "Figure 4.1 — The signed-in workspace. The sidebar (left) provides navigation; the header (top) provides search,",
+        "notifications, and your account menu.",
+        "The sidebar",
+        "At the top of the sidebar the brand WaiverPro appears with the label “Healthcare Waiver"
+      ]
+    },
+    {
+      "route": "/dashboard/faqs",
+      "section": "5",
+      "missing": [
+        "My Applications",
+        "URL /dashboard/my-applications",
+        "The My Applications dashboard is your home screen. It lists your waiver applications and",
+        "summarises them in two charts.",
+        "Figure 5.1 — The My Applications dashboard: waiver-type tabs, status filters, the applications table, and the two",
+        "summary charts.",
+        "Filtering the list",
+        "Two layers of filters narrow the table, each showing a live count:"
+      ]
+    },
+    {
+      "route": "/dashboard/faqs",
+      "section": "6",
+      "missing": [
+        "Submitting a New Waiver Application",
+        "URL Opens as a panel over the current page (no dedicated URL)",
+        "Click + New Application in the sidebar to open the application panel. A progress bar and the step",
+        "tabs Waiver Type, Select Location, and Fill Application show where you are.",
+        "Figure 6.1 — The New Waiver Application panel, open at step one, “Select Waiver Type”.",
+        "Step 1 — Waiver Type",
+        "Under “Select Waiver Type”, choose the waiver request that best matches your needs. Each type —",
+        "Patient Needs Waiver (PNW) Request, Program Flexibility (PF) Request, and"
+      ]
+    },
+    {
+      "route": "/dashboard/faqs",
+      "section": "7",
+      "missing": [
+        "URL /dashboard/facilities",
+        "The Facilities page lists the facilities in your organisation and tracks the status of their waiver",
+        "applications.",
+        "Figure 7.1 — The Facilities page, with status filters, the facilities table, and the Facilities Status Overview.",
+        "Filters",
+        "A row of status chips filters by application due-date status: All Facilities, Due Soon, Upcoming,",
+        "Scheduled, Overdue, and No Status. You can further filter by Role and Type, or search by"
+      ]
+    },
+    {
+      "route": "/dashboard/faqs",
+      "section": "8",
+      "missing": [
+        "Action Items",
+        "URL /dashboard/action-items",
+        "The Action Items page collects pending items that require your attention.",
+        "Figure 8.1 — The Action Items page, with the items table and the status summary chart.",
+        "Items are listed with the columns ID, Name, Status, Priority, and Due Date. Each Name links",
+        "to the relevant record so you can act on it. You can filter the list by Status and Priority using the",
+        "controls at the top right.",
+        "Status values include Done and In Process."
+      ]
+    },
+    {
+      "route": "/dashboard/faqs",
+      "section": "9",
+      "missing": [
+        "User Management",
+        "URL /dashboard/user-management",
+        "The User Management page lets organisation administrators view and manage the people who",
+        "can access WaiverPro on behalf of the organisation.",
+        "Figure 9.1 — The User Management page.",
+        "Two tabs separate current Members from Pending Invites, each showing a count. The table lists",
+        "each user with the columns Name, Email, Associated Facilities, Last Updated, and Actions",
+        "(edit and remove). To add someone, click Invite User in the top-right corner. Use the search box to"
+      ]
+    },
+    {
+      "route": "/dashboard/faqs",
+      "section": "10",
+      "missing": [
+        "Announcements",
+        "URL /dashboard/announcements",
+        "The Announcements page keeps you informed: “Stay up to date with important system and",
+        "program updates.”",
+        "Figure 10.1 — The Announcements page.",
+        "Each announcement shows its title, a status badge — Active, Upcoming, or Expired — an",
+        "optional priority badge (High, Medium, or Low), and its date. Click an announcement to expand",
+        "and read its full detail. A search box helps you find a specific announcement."
+      ]
+    },
+    {
+      "route": "/dashboard/faqs",
+      "section": "11",
+      "missing": [
+        "Support — FAQs, Tickets & Contact",
+        "The Support section of the sidebar offers three ways to get help.",
+        "URL /dashboard/faqs",
+        "The FAQs page answers common questions about WaiverPro. Click any question to expand its",
+        "answer.",
+        "Figure 11.1 — The FAQs page.",
+        "Support Tickets",
+        "URL /dashboard/tickets"
+      ]
+    },
+    {
+      "route": "/dashboard/faqs",
+      "section": "12",
+      "missing": [
+        "Settings",
+        "URL /dashboard/settings",
+        "The Settings page (“Manage your account and preferences”) shows your organisation and is",
+        "organised into four cards.",
+        "Figure 12.1 — The Settings page.",
+        "Organisation — the organisation your account belongs to is shown at the top of the page.",
+        "Profile Information — your first name, last name, email (read-only), and phone number. Click",
+        "Save Changes to update."
+      ]
+    },
+    {
+      "route": "/dashboard/faqs",
+      "section": "13",
+      "missing": [
+        "Legal — Privacy & Terms",
+        "URL /privacy  ·  /terms",
+        "The Privacy Policy and Terms of Service are linked from the footer of the landing page and are",
+        "available without signing in.",
+        "Figure 13.1 — The Privacy Policy page.",
+        "Figure 13.2 — The Terms of Service page.",
+        "Each page is dated “Last updated: December 2025” and provides a Back to Home link.",
+        "APPENDIX"
+      ]
+    },
+    {
+      "route": "/dashboard/tickets",
+      "section": "1",
+      "missing": [
+        "About This Guide",
+        "WaiverPro is a web-based platform for managing healthcare regulatory waiver requests from",
+        "submission through approval. This manual explains how to navigate the application, submit and",
+        "track waiver requests, manage facilities and users, and obtain support.",
+        "Who should use this guide",
+        "This guide is written for provider-portal users — facility administrators and staff who prepare,",
+        "submit, and monitor waiver applications on behalf of their organisation.",
+        "Scope"
+      ]
+    },
+    {
+      "route": "/dashboard/tickets",
+      "section": "2",
+      "missing": [
+        "Accessing WaiverPro — The Landing Page",
+        "URL /",
+        "Open WaiverPro in your web browser. The public landing page introduces the platform and lists the",
+        "waiver programs currently available.",
+        "Figure 2.1 — The WaiverPro landing page: heading, search bar, and the Getting Started button.",
+        "Key elements of the landing page:",
+        "Heading — “Healthcare Waiver Management”, with the tagline “Streamline your regulatory",
+        "waiver process from submission to approval”."
+      ]
+    },
+    {
+      "route": "/dashboard/tickets",
+      "section": "3",
+      "missing": [
+        "Signing In",
+        "URL /login",
+        "The sign-in screen authenticates you into the provider portal.",
+        "Figure 3.1 — The sign-in screen.",
+        "1. Enter your Email (placeholder m@example.com).",
+        "2. Enter your Password. Passwords must be at least 6 characters.",
+        "3. Click Login.",
+        "If you have forgotten your password, use the Forgot your password? link beside the password"
+      ]
+    },
+    {
+      "route": "/dashboard/tickets",
+      "section": "4",
+      "missing": [
+        "The Application Workspace & Navigation",
+        "URL Shared by all signed-in pages (/dashboard/...)",
+        "Once signed in, every page shares a common layout: a fixed sidebar on the left and a header along",
+        "the top.",
+        "Figure 4.1 — The signed-in workspace. The sidebar (left) provides navigation; the header (top) provides search,",
+        "notifications, and your account menu.",
+        "The sidebar",
+        "At the top of the sidebar the brand WaiverPro appears with the label “Healthcare Waiver"
+      ]
+    },
+    {
+      "route": "/dashboard/tickets",
+      "section": "5",
+      "missing": [
+        "My Applications",
+        "URL /dashboard/my-applications",
+        "The My Applications dashboard is your home screen. It lists your waiver applications and",
+        "summarises them in two charts.",
+        "Figure 5.1 — The My Applications dashboard: waiver-type tabs, status filters, the applications table, and the two",
+        "summary charts.",
+        "Filtering the list",
+        "Two layers of filters narrow the table, each showing a live count:"
+      ]
+    },
+    {
+      "route": "/dashboard/tickets",
+      "section": "6",
+      "missing": [
+        "Submitting a New Waiver Application",
+        "URL Opens as a panel over the current page (no dedicated URL)",
+        "Click + New Application in the sidebar to open the application panel. A progress bar and the step",
+        "tabs Waiver Type, Select Location, and Fill Application show where you are.",
+        "Figure 6.1 — The New Waiver Application panel, open at step one, “Select Waiver Type”.",
+        "Step 1 — Waiver Type",
+        "Under “Select Waiver Type”, choose the waiver request that best matches your needs. Each type —",
+        "Patient Needs Waiver (PNW) Request, Program Flexibility (PF) Request, and"
+      ]
+    },
+    {
+      "route": "/dashboard/tickets",
+      "section": "7",
+      "missing": [
+        "Facilities",
+        "URL /dashboard/facilities",
+        "The Facilities page lists the facilities in your organisation and tracks the status of their waiver",
+        "applications.",
+        "Figure 7.1 — The Facilities page, with status filters, the facilities table, and the Facilities Status Overview.",
+        "Filters",
+        "A row of status chips filters by application due-date status: All Facilities, Due Soon, Upcoming,",
+        "Scheduled, Overdue, and No Status. You can further filter by Role and Type, or search by"
+      ]
+    },
+    {
+      "route": "/dashboard/tickets",
+      "section": "8",
+      "missing": [
+        "Action Items",
+        "URL /dashboard/action-items",
+        "The Action Items page collects pending items that require your attention.",
+        "Figure 8.1 — The Action Items page, with the items table and the status summary chart.",
+        "Items are listed with the columns ID, Name, Status, Priority, and Due Date. Each Name links",
+        "to the relevant record so you can act on it. You can filter the list by Status and Priority using the",
+        "controls at the top right.",
+        "Status values include Done and In Process."
+      ]
+    },
+    {
+      "route": "/dashboard/tickets",
+      "section": "9",
+      "missing": [
+        "User Management",
+        "URL /dashboard/user-management",
+        "The User Management page lets organisation administrators view and manage the people who",
+        "can access WaiverPro on behalf of the organisation.",
+        "Figure 9.1 — The User Management page.",
+        "Two tabs separate current Members from Pending Invites, each showing a count. The table lists",
+        "each user with the columns Name, Email, Associated Facilities, Last Updated, and Actions",
+        "(edit and remove). To add someone, click Invite User in the top-right corner. Use the search box to"
+      ]
+    },
+    {
+      "route": "/dashboard/tickets",
+      "section": "10",
+      "missing": [
+        "Announcements",
+        "URL /dashboard/announcements",
+        "The Announcements page keeps you informed: “Stay up to date with important system and",
+        "program updates.”",
+        "Figure 10.1 — The Announcements page.",
+        "Each announcement shows its title, a status badge — Active, Upcoming, or Expired — an",
+        "optional priority badge (High, Medium, or Low), and its date. Click an announcement to expand",
+        "and read its full detail. A search box helps you find a specific announcement."
+      ]
+    },
+    {
+      "route": "/dashboard/tickets",
+      "section": "11",
+      "missing": [
+        "Support — FAQs, Tickets & Contact",
+        "The Support section of the sidebar offers three ways to get help.",
+        "URL /dashboard/faqs",
+        "The FAQs page answers common questions about WaiverPro. Click any question to expand its",
+        "answer.",
+        "Figure 11.1 — The FAQs page.",
+        "URL /dashboard/tickets"
+      ]
+    },
+    {
+      "route": "/dashboard/tickets",
+      "section": "12",
+      "missing": [
+        "Settings",
+        "URL /dashboard/settings",
+        "The Settings page (“Manage your account and preferences”) shows your organisation and is",
+        "organised into four cards.",
+        "Figure 12.1 — The Settings page.",
+        "Organisation — the organisation your account belongs to is shown at the top of the page.",
+        "Profile Information — your first name, last name, email (read-only), and phone number. Click",
+        "Save Changes to update."
+      ]
+    },
+    {
+      "route": "/dashboard/tickets",
+      "section": "13",
+      "missing": [
+        "Legal — Privacy & Terms",
+        "URL /privacy  ·  /terms",
+        "The Privacy Policy and Terms of Service are linked from the footer of the landing page and are",
+        "available without signing in.",
+        "Figure 13.1 — The Privacy Policy page.",
+        "Figure 13.2 — The Terms of Service page.",
+        "Each page is dated “Last updated: December 2025” and provides a Back to Home link.",
+        "APPENDIX"
+      ]
+    },
+    {
+      "route": "/dashboard/contact",
+      "section": "1",
+      "missing": [
+        "About This Guide",
+        "WaiverPro is a web-based platform for managing healthcare regulatory waiver requests from",
+        "submission through approval. This manual explains how to navigate the application, submit and",
+        "track waiver requests, manage facilities and users, and obtain support.",
+        "Who should use this guide",
+        "This guide is written for provider-portal users — facility administrators and staff who prepare,",
+        "submit, and monitor waiver applications on behalf of their organisation.",
+        "Scope"
+      ]
+    },
+    {
+      "route": "/dashboard/contact",
+      "section": "2",
+      "missing": [
+        "Accessing WaiverPro — The Landing Page",
+        "URL /",
+        "Open WaiverPro in your web browser. The public landing page introduces the platform and lists the",
+        "waiver programs currently available.",
+        "Figure 2.1 — The WaiverPro landing page: heading, search bar, and the Getting Started button.",
+        "Key elements of the landing page:",
+        "Heading — “Healthcare Waiver Management”, with the tagline “Streamline your regulatory",
+        "waiver process from submission to approval”."
+      ]
+    },
+    {
+      "route": "/dashboard/contact",
+      "section": "3",
+      "missing": [
+        "Signing In",
+        "URL /login",
+        "The sign-in screen authenticates you into the provider portal.",
+        "Figure 3.1 — The sign-in screen.",
+        "1. Enter your Email (placeholder m@example.com).",
+        "2. Enter your Password. Passwords must be at least 6 characters.",
+        "3. Click Login.",
+        "If you have forgotten your password, use the Forgot your password? link beside the password"
+      ]
+    },
+    {
+      "route": "/dashboard/contact",
+      "section": "4",
+      "missing": [
+        "The Application Workspace & Navigation",
+        "URL Shared by all signed-in pages (/dashboard/...)",
+        "Once signed in, every page shares a common layout: a fixed sidebar on the left and a header along",
+        "the top.",
+        "Figure 4.1 — The signed-in workspace. The sidebar (left) provides navigation; the header (top) provides search,",
+        "notifications, and your account menu.",
+        "The sidebar",
+        "At the top of the sidebar the brand WaiverPro appears with the label “Healthcare Waiver"
+      ]
+    },
+    {
+      "route": "/dashboard/contact",
+      "section": "5",
+      "missing": [
+        "My Applications",
+        "URL /dashboard/my-applications",
+        "The My Applications dashboard is your home screen. It lists your waiver applications and",
+        "summarises them in two charts.",
+        "Figure 5.1 — The My Applications dashboard: waiver-type tabs, status filters, the applications table, and the two",
+        "summary charts.",
+        "Filtering the list",
+        "Two layers of filters narrow the table, each showing a live count:"
+      ]
+    },
+    {
+      "route": "/dashboard/contact",
+      "section": "6",
+      "missing": [
+        "Submitting a New Waiver Application",
+        "URL Opens as a panel over the current page (no dedicated URL)",
+        "Click + New Application in the sidebar to open the application panel. A progress bar and the step",
+        "tabs Waiver Type, Select Location, and Fill Application show where you are.",
+        "Figure 6.1 — The New Waiver Application panel, open at step one, “Select Waiver Type”.",
+        "Step 1 — Waiver Type",
+        "Under “Select Waiver Type”, choose the waiver request that best matches your needs. Each type —",
+        "Patient Needs Waiver (PNW) Request, Program Flexibility (PF) Request, and"
+      ]
+    },
+    {
+      "route": "/dashboard/contact",
+      "section": "7",
+      "missing": [
+        "Facilities",
+        "URL /dashboard/facilities",
+        "The Facilities page lists the facilities in your organisation and tracks the status of their waiver",
+        "applications.",
+        "Figure 7.1 — The Facilities page, with status filters, the facilities table, and the Facilities Status Overview.",
+        "Filters",
+        "A row of status chips filters by application due-date status: All Facilities, Due Soon, Upcoming,",
+        "Scheduled, Overdue, and No Status. You can further filter by Role and Type, or search by"
+      ]
+    },
+    {
+      "route": "/dashboard/contact",
+      "section": "8",
+      "missing": [
+        "Action Items",
+        "URL /dashboard/action-items",
+        "The Action Items page collects pending items that require your attention.",
+        "Figure 8.1 — The Action Items page, with the items table and the status summary chart.",
+        "Items are listed with the columns ID, Name, Status, Priority, and Due Date. Each Name links",
+        "to the relevant record so you can act on it. You can filter the list by Status and Priority using the",
+        "controls at the top right.",
+        "Status values include Done and In Process."
+      ]
+    },
+    {
+      "route": "/dashboard/contact",
+      "section": "9",
+      "missing": [
+        "User Management",
+        "URL /dashboard/user-management",
+        "The User Management page lets organisation administrators view and manage the people who",
+        "can access WaiverPro on behalf of the organisation.",
+        "Figure 9.1 — The User Management page.",
+        "Two tabs separate current Members from Pending Invites, each showing a count. The table lists",
+        "each user with the columns Name, Email, Associated Facilities, Last Updated, and Actions",
+        "(edit and remove). To add someone, click Invite User in the top-right corner. Use the search box to"
+      ]
+    },
+    {
+      "route": "/dashboard/contact",
+      "section": "10",
+      "missing": [
+        "Announcements",
+        "URL /dashboard/announcements",
+        "The Announcements page keeps you informed: “Stay up to date with important system and",
+        "program updates.”",
+        "Figure 10.1 — The Announcements page.",
+        "Each announcement shows its title, a status badge — Active, Upcoming, or Expired — an",
+        "optional priority badge (High, Medium, or Low), and its date. Click an announcement to expand",
+        "and read its full detail. A search box helps you find a specific announcement."
+      ]
+    },
+    {
+      "route": "/dashboard/contact",
+      "section": "11",
+      "missing": [
+        "Support — FAQs, Tickets & Contact",
+        "The Support section of the sidebar offers three ways to get help.",
+        "URL /dashboard/faqs",
+        "The FAQs page answers common questions about WaiverPro. Click any question to expand its",
+        "answer.",
+        "Figure 11.1 — The FAQs page.",
+        "Support Tickets",
+        "URL /dashboard/tickets"
+      ]
+    },
+    {
+      "route": "/dashboard/contact",
+      "section": "12",
+      "missing": [
+        "Settings",
+        "URL /dashboard/settings",
+        "The Settings page (“Manage your account and preferences”) shows your organisation and is",
+        "organised into four cards.",
+        "Figure 12.1 — The Settings page.",
+        "Organisation — the organisation your account belongs to is shown at the top of the page.",
+        "Profile Information — your first name, last name, email (read-only), and phone number. Click",
+        "Save Changes to update."
+      ]
+    },
+    {
+      "route": "/dashboard/contact",
+      "section": "13",
+      "missing": [
+        "Legal — Privacy & Terms",
+        "URL /privacy  ·  /terms",
+        "The Privacy Policy and Terms of Service are linked from the footer of the landing page and are",
+        "available without signing in.",
+        "Figure 13.1 — The Privacy Policy page.",
+        "Figure 13.2 — The Terms of Service page.",
+        "Each page is dated “Last updated: December 2025” and provides a Back to Home link.",
+        "APPENDIX"
+      ]
+    },
+    {
+      "route": "/dashboard/settings",
+      "section": "1",
+      "missing": [
+        "About This Guide",
+        "WaiverPro is a web-based platform for managing healthcare regulatory waiver requests from",
+        "submission through approval. This manual explains how to navigate the application, submit and",
+        "track waiver requests, manage facilities and users, and obtain support.",
+        "Who should use this guide",
+        "This guide is written for provider-portal users — facility administrators and staff who prepare,",
+        "submit, and monitor waiver applications on behalf of their organisation.",
+        "Scope"
+      ]
+    },
+    {
+      "route": "/dashboard/settings",
+      "section": "2",
+      "missing": [
+        "Accessing WaiverPro — The Landing Page",
+        "URL /",
+        "Open WaiverPro in your web browser. The public landing page introduces the platform and lists the",
+        "waiver programs currently available.",
+        "Figure 2.1 — The WaiverPro landing page: heading, search bar, and the Getting Started button.",
+        "Key elements of the landing page:",
+        "Heading — “Healthcare Waiver Management”, with the tagline “Streamline your regulatory",
+        "waiver process from submission to approval”."
+      ]
+    },
+    {
+      "route": "/dashboard/settings",
+      "section": "3",
+      "missing": [
+        "Signing In",
+        "URL /login",
+        "The sign-in screen authenticates you into the provider portal.",
+        "Figure 3.1 — The sign-in screen.",
+        "1. Enter your Email (placeholder m@example.com).",
+        "2. Enter your Password. Passwords must be at least 6 characters.",
+        "3. Click Login.",
+        "If you have forgotten your password, use the Forgot your password? link beside the password"
+      ]
+    },
+    {
+      "route": "/dashboard/settings",
+      "section": "4",
+      "missing": [
+        "The Application Workspace & Navigation",
+        "URL Shared by all signed-in pages (/dashboard/...)",
+        "Once signed in, every page shares a common layout: a fixed sidebar on the left and a header along",
+        "the top.",
+        "Figure 4.1 — The signed-in workspace. The sidebar (left) provides navigation; the header (top) provides search,",
+        "notifications, and your account menu.",
+        "The sidebar",
+        "At the top of the sidebar the brand WaiverPro appears with the label “Healthcare Waiver"
+      ]
+    },
+    {
+      "route": "/dashboard/settings",
+      "section": "5",
+      "missing": [
+        "My Applications",
+        "URL /dashboard/my-applications",
+        "The My Applications dashboard is your home screen. It lists your waiver applications and",
+        "summarises them in two charts.",
+        "Figure 5.1 — The My Applications dashboard: waiver-type tabs, status filters, the applications table, and the two",
+        "summary charts.",
+        "Filtering the list",
+        "Two layers of filters narrow the table, each showing a live count:"
+      ]
+    },
+    {
+      "route": "/dashboard/settings",
+      "section": "6",
+      "missing": [
+        "Submitting a New Waiver Application",
+        "URL Opens as a panel over the current page (no dedicated URL)",
+        "Click + New Application in the sidebar to open the application panel. A progress bar and the step",
+        "tabs Waiver Type, Select Location, and Fill Application show where you are.",
+        "Figure 6.1 — The New Waiver Application panel, open at step one, “Select Waiver Type”.",
+        "Step 1 — Waiver Type",
+        "Under “Select Waiver Type”, choose the waiver request that best matches your needs. Each type —",
+        "Patient Needs Waiver (PNW) Request, Program Flexibility (PF) Request, and"
+      ]
+    },
+    {
+      "route": "/dashboard/settings",
+      "section": "7",
+      "missing": [
+        "Facilities",
+        "URL /dashboard/facilities",
+        "The Facilities page lists the facilities in your organisation and tracks the status of their waiver",
+        "applications.",
+        "Figure 7.1 — The Facilities page, with status filters, the facilities table, and the Facilities Status Overview.",
+        "Filters",
+        "A row of status chips filters by application due-date status: All Facilities, Due Soon, Upcoming,",
+        "Scheduled, Overdue, and No Status. You can further filter by Role and Type, or search by"
+      ]
+    },
+    {
+      "route": "/dashboard/settings",
+      "section": "8",
+      "missing": [
+        "Action Items",
+        "URL /dashboard/action-items",
+        "The Action Items page collects pending items that require your attention.",
+        "Figure 8.1 — The Action Items page, with the items table and the status summary chart.",
+        "Items are listed with the columns ID, Name, Status, Priority, and Due Date. Each Name links",
+        "to the relevant record so you can act on it. You can filter the list by Status and Priority using the",
+        "controls at the top right.",
+        "Status values include Done and In Process."
+      ]
+    },
+    {
+      "route": "/dashboard/settings",
+      "section": "9",
+      "missing": [
+        "User Management",
+        "URL /dashboard/user-management",
+        "The User Management page lets organisation administrators view and manage the people who",
+        "can access WaiverPro on behalf of the organisation.",
+        "Figure 9.1 — The User Management page.",
+        "Two tabs separate current Members from Pending Invites, each showing a count. The table lists",
+        "each user with the columns Name, Email, Associated Facilities, Last Updated, and Actions",
+        "(edit and remove). To add someone, click Invite User in the top-right corner. Use the search box to"
+      ]
+    },
+    {
+      "route": "/dashboard/settings",
+      "section": "10",
+      "missing": [
+        "Announcements",
+        "URL /dashboard/announcements",
+        "The Announcements page keeps you informed: “Stay up to date with important system and",
+        "program updates.”",
+        "Figure 10.1 — The Announcements page.",
+        "Each announcement shows its title, a status badge — Active, Upcoming, or Expired — an",
+        "optional priority badge (High, Medium, or Low), and its date. Click an announcement to expand",
+        "and read its full detail. A search box helps you find a specific announcement."
+      ]
+    },
+    {
+      "route": "/dashboard/settings",
+      "section": "11",
+      "missing": [
+        "Support — FAQs, Tickets & Contact",
+        "The Support section of the sidebar offers three ways to get help.",
+        "URL /dashboard/faqs",
+        "The FAQs page answers common questions about WaiverPro. Click any question to expand its",
+        "answer.",
+        "Figure 11.1 — The FAQs page.",
+        "Support Tickets",
+        "URL /dashboard/tickets"
+      ]
+    },
+    {
+      "route": "/dashboard/settings",
+      "section": "12",
+      "missing": [
+        "URL /dashboard/settings",
+        "The Settings page (“Manage your account and preferences”) shows your organisation and is",
+        "organised into four cards.",
+        "Figure 12.1 — The Settings page.",
+        "Organisation — the organisation your account belongs to is shown at the top of the page.",
+        "Profile Information — your first name, last name, email (read-only), and phone number. Click",
+        "Save Changes to update."
+      ]
+    },
+    {
+      "route": "/dashboard/settings",
+      "section": "13",
+      "missing": [
+        "Legal — Privacy & Terms",
+        "URL /privacy  ·  /terms",
+        "The Privacy Policy and Terms of Service are linked from the footer of the landing page and are",
+        "available without signing in.",
+        "Figure 13.1 — The Privacy Policy page.",
+        "Figure 13.2 — The Terms of Service page.",
+        "Each page is dated “Last updated: December 2025” and provides a Back to Home link.",
+        "APPENDIX"
+      ]
+    }
+  ]
+}
